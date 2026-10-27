@@ -73,10 +73,7 @@
     "customerName": "Sunnybrook Animal Wellness",
     "orderDate": "2026-10-18",
     "status": "Pending",
-    "items": [
-      { "productId": "P130", "productName": "Senior Dog Joint Support", "quantity": 3, "unitPrice": 34.99 },
-      { "productId": "P101", "productName": "Omega Supplement", "quantity": 2, "unitPrice": 42.50 }
-    ]
+    "items": null
   },
   {
     "id": "ORD-1009",
@@ -108,7 +105,7 @@
   },
   {
     "id": "ORD-1012",
-    "customerName": "Willow Creek Veterinary Group",
+    "customerName": null,
     "orderDate": "2026-10-20",
     "status": "Pending",
     "items": [
@@ -141,7 +138,7 @@
     "orderDate": "2026-10-21",
     "status": "Pending",
     "items": [
-      { "productId": "P240", "productName": "Digital Thermometer", "quantity": 2, "unitPrice": 29.99 },
+      { "productId": "P240", "productName": "Digital Thermometer", "quantity": -2, "unitPrice": 29.99 },
       { "productId": "P241", "productName": "Thermometer Probe Covers", "quantity": 5, "unitPrice": 4.50 }
     ]
   }
